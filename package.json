@@ -1,0 +1,20 @@
+{
+  "name": "cryptocompare-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "live": "nodemon index.js"
+  },
+  "author": "Alessio Carrafa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.23.0",
+    "fastify": "3.22.0",
+    "mongodb-memory-server": "7.4.4",
+    "mongoose": "6.0.11"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.13"
+  }
+}

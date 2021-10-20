@@ -1,0 +1,9 @@
+{
+  "localPort": 3000,
+  "db": {
+    "addr": "127.0.0.1",
+    "port": 9000
+  },
+  "coinListFetchInterval": 1000000,
+  "coinDataFetchInterval": 10000
+}
